@@ -82,22 +82,7 @@ The output APK will be located at:
 
 ---
 
-## 📡 Remote In-App Update Protocol
-
-This app automatically syncs with `version.json` in the root of the repository:
-
-```json
-{
-  "versionName": "1.4",
-  "versionCode": 5,
-  "apkUrl": "https://github.com/omseven/SmartHub_App/releases/download/v1.4/ElecMarketing_SmartHub_V1.4_release.apk",
-  "notesFa": "افزوده شدن سیستم بررسی و بروزرسانی خودکار اپلیکیشن از گیت‌هاب.",
-  "notesEn": "Added in-app update capability from GitHub and Cloud firmware sync."
-}
-```
-
----
-
 <p align="center">
   <sub>Developed & Maintained by <b>ElecMarketing</b> Engineering Team</sub>
 </p>
+
